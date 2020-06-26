@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% include post-001.md %}
+
+<br>
+
 {% include 01-name.md %}
 
 <br>
