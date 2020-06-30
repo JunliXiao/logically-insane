@@ -1,6 +1,3 @@
 title: Logically Insane
 logo: /CIMG1968.jpg
-remote_theme: niklasbuschmann/contrast@v2.8
-
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-minimal
